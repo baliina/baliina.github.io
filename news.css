@@ -7,6 +7,7 @@ a,
 a:focus,
 a:hover {
   color: #ddd;
+  padding: 50%;
 /*  font-size: 13px;*/
 /*  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
 }
@@ -29,7 +30,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #ffffff;
+  background-color: #a2b4c5;
 }
 body {
     
