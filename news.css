@@ -56,24 +56,15 @@ ul {
 li {
   margin: 5px;
 }
-.container{padding-top: 30px;}
+.container{
+  padding-top: 20px;
+}
 .header{
   color: #a2b4c5;
-  padding-top: 15px;
-  font-style:italic; 
+  font-style:italic;
 }   
 h1 {
   font-size: 3em;
-}
-
-
-
-.bg {
-  background-attachment:fixed; 
-  background-repeat: no-repeat; 
-  background-position:top center;
-  background-size: 100%;
-  background-image: url("lenta.jpg");
 }
 
 .text-primary {
