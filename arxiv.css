@@ -57,6 +57,8 @@ li {
   margin: 5px;
 }
 p {
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #aaa;
   margin: 10px;
 }
 .container{
