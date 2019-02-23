@@ -72,7 +72,34 @@ li {
 }
 h1 {
   font-size: 3em;
+  color: #023e1b;
+  text-shadow: 
+                -0   -2px 1px #F9F2F2,
+                 0   -2px 1px #F9F2F2,
+                -0    2px 1px #F9F2F2,
+                 0    2px 1px #F9F2F2,
+                -2px -0   1px #F9F2F2,
+                 2px -0   1px #F9F2F2,
+                -2px  0   1px #F9F2F2,
+                 2px  0   1px #F9F2F2,
+                -1px -2px 1px #F9F2F2,
+                 1px -2px 1px #F9F2F2,
+                -1px  2px 1px #F9F2F2,
+                 1px  2px 1px #F9F2F2,
+                -2px -1px 1px #F9F2F2,
+                 2px -1px 1px #F9F2F2,
+                -2px  1px 1px #F9F2F2,
+                 2px  1px 1px #F9F2F2,
+                -2px -2px 1px #F9F2F2,
+                 2px -2px 1px #F9F2F2,
+                -2px  2px 1px #F9F2F2,
+                 2px  2px 1px #F9F2F2,
+                -2px -2px 1px #F9F2F2,
+                 2px -2px 1px #F9F2F2,
+                -2px  2px 1px #F9F2F2,
+                 2px  2px 1px #F9F2F2;
 }
+
 
 
 
